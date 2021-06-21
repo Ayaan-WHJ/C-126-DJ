@@ -1,0 +1,62 @@
+.heading
+{
+    font-size: 23px;
+    width:100%;
+    margin: 0px;
+    background: rgb(255,0,0);
+background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(72,0,255,1) 100%);
+}
+
+.note
+{
+    font-size: 20px;
+    color: rgb(0, 255, 55);
+    font-weight: 2000;
+}
+body
+{
+    background-size: cover;
+    font-family: cursive;
+}
+.div_speed {
+    float: left;
+    width:500px;
+}
+.div_speed_img
+{
+    width: 250px;
+    border-radius: 100px;
+}
+
+#speed
+{
+    width: 200px;
+    color: rgb(0, 0, 0);
+    font-size: 23px;
+    margin: 15px;
+    background: rgb(163,255,240);
+background: linear-gradient(90deg, rgba(163,255,240,1) 0%, rgba(31,216,255,1) 25%, rgba(93,176,240,1) 50%, rgba(18,136,237,1) 75%, rgba(79,20,255,1) 100%);
+}
+
+.div_volume
+{
+    width:  500px;
+    float: right;
+}
+
+.div_volume_img
+{
+    width: 250px;
+    border-radius: 100px;
+}
+
+#volume
+{   width: 200px;
+    color: black;
+    font-size: 23px;
+    margin: 15px;
+    background: rgb(163,255,240);
+background: linear-gradient(90deg, rgba(163,255,240,1) 0%, rgba(31,216,255,1) 25%, rgba(93,176,240,1) 50%, rgba(18,136,237,1) 75%, rgba(79,20,255,1) 100%);
+}
+
+
