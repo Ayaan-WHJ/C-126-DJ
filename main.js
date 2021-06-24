@@ -1,4 +1,4 @@
-song = "";
+var song = " ";
 function preload()
 {
 song = loadSound('music.mp3');
