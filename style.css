@@ -58,5 +58,13 @@ background: linear-gradient(90deg, rgba(163,255,240,1) 0%, rgba(31,216,255,1) 25
     background: rgb(163,255,240);
 background: linear-gradient(90deg, rgba(163,255,240,1) 0%, rgba(31,216,255,1) 25%, rgba(93,176,240,1) 50%, rgba(18,136,237,1) 75%, rgba(79,20,255,1) 100%);
 }
-
-
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
+canvas
+{
+     border:5px solid white;
+     border-radius: 20px;
+}
